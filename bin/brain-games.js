@@ -1,5 +1,6 @@
 #!/usr/bin/env node
-import { gameEven } from '../src/even-not-even.js';
+
+import { gameEven } from '../src/even.js';
 import { gameCalc } from '../src/calc.js';
 
 

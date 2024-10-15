@@ -14,3 +14,6 @@ You can watch a demo of the Brain Games in action by clicking the link below:
 
 ### Calc
 [Watch the demo on Asciinema](https://asciinema.org/a/XZcuWmbZK3X6j5Y4XeWu6vXAn)
+
+### Nod
+[Watch the demo on Asciinema](https://asciinema.org/a/91YhHX6XYPiDYzypzFka8Oe1r)
