@@ -1,4 +1,5 @@
 import { playGame, welcomeUser } from './index.js';
+
 const generateProgression = (start, step, length) => {
   const progression = [];
   for (let i = 0; i < length; i++) {

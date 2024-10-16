@@ -1,4 +1,5 @@
 import { playGame, welcomeUser } from './index.js';
+
 const calculate = (num1, num2, operation) => {
   switch (operation) {
   case '+':
