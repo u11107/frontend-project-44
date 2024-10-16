@@ -10,8 +10,9 @@ export default [
   pluginJs.configs.recommended,
   {
     rules: {
-      'quotes': ['error', 'single'],  // Использовать одинарные кавычки
-      'object-curly-spacing': ['error', 'always'],  // Пробелы внутри фигурных скобок
+      quotes: ['error', 'single'],
+      'object-curly-spacing': ['error', 'always'],
+      indent: ["error", 2],
     },
   },
 ];
