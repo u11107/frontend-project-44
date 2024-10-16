@@ -1,4 +1,5 @@
 import readlineSync from 'readline-sync';
+
 const welcomeUser = () => {
   console.log('brain-games');
   console.log('Welcome to the Brain Games!');

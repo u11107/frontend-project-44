@@ -1,4 +1,5 @@
 import { playGame, welcomeUser } from './index.js';
+
 const isEven = (num) => num % 2 === 0;
 export const gameEven = () => {
   const userName = welcomeUser();
