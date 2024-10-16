@@ -1,8 +1,5 @@
 #!/usr/bin/env node
 
-import { gameEven } from '../src/even.js';
-import { gameCalc } from '../src/calc.js';
+import {welcomeUser} from "../src/cli.js";
 
-
-gameEven();  // Запустит игру "Проверка на чётность"
-gameCalc();  // Запустит игру "Калькулятор"
+welcomeUser();

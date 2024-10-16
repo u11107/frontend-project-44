@@ -20,3 +20,6 @@ You can watch a demo of the Brain Games in action by clicking the link below:
 
 ### Progression
 [Watch the demo on Asciinema](https://asciinema.org/a/tFC5ndnfnBu8NoZxnigeTxVkx)
+
+### Prime
+[Watch the demo on Asciinema](https://asciinema.org/a/NqU5I5tpBrfNRQFhKsl2TZ7YE)
