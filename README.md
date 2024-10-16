@@ -17,3 +17,6 @@ You can watch a demo of the Brain Games in action by clicking the link below:
 
 ### Nod
 [Watch the demo on Asciinema](https://asciinema.org/a/91YhHX6XYPiDYzypzFka8Oe1r)
+
+### Progression
+[Watch the demo on Asciinema](https://asciinema.org/a/tFC5ndnfnBu8NoZxnigeTxVkx)
