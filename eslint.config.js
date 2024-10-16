@@ -11,7 +11,7 @@ export default [
   {
     rules: {
       indent: ['error', 2],
-      quotes: ['error', "single"],
+      quotes: ['error', 'single'],
       'no-console': 'off',
       'import/newline-after-import': ['error', { count: 1 }],
     },

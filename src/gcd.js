@@ -6,7 +6,7 @@ const getGcd = (a, b) => {
   }
   return a;
 };
-export const gameGcd = () => {
+const gameGcd = () => {
   const userName = welcomeUser();
   console.log('Find the greatest common divisor of given numbers.');
   const getQuestionAndAnswer = () => {
@@ -18,3 +18,4 @@ export const gameGcd = () => {
   };
   playGame(userName, getQuestionAndAnswer);
 };
+export default gameGcd;

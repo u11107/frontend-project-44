@@ -19,7 +19,7 @@ const getRandomOperation = () => {
   return operations[randomIndex];
 };
 
-export const gameCalc = () => {
+const gameCalc = () => {
   const userName = welcomeUser();
 
   console.log('What is the result of the expression?');
@@ -35,3 +35,5 @@ export const gameCalc = () => {
 
   playGame(userName, getQuestionAndAnswer);
 };
+
+export default gameCalc;

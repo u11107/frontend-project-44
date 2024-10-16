@@ -1,7 +1,7 @@
 import { playGame, welcomeUser } from './index.js';
 
 const isEven = (num) => num % 2 === 0;
-export const gameEven = () => {
+const gameEven = () => {
   const userName = welcomeUser();
   const getQuestionAndAnswer = () => {
     const number = Math.floor(Math.random() * 100);
@@ -10,3 +10,4 @@ export const gameEven = () => {
   };
   playGame(userName, getQuestionAndAnswer);
 };
+export default gameCalc;
