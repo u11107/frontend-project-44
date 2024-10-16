@@ -6,6 +6,7 @@ export const welcomeUser = () => {
     console.log('Welcome to the Brain Games!');
     const userName = readlineSync.question('What is your name? ');
     console.log(`Hello, ${userName}!`);
+    console.log('Answer "yes" if the number is even, otherwise answer "no".'); // Добавлено сообщение об инструкции
     return userName;
 };
 
