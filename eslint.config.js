@@ -10,8 +10,8 @@ export default [
   pluginJs.configs.recommended,
   {
     rules: {
-      indent: ['error', 2], // Убраны кавычки
-      quotes: ['error', "single"], // Убраны кавычки
+      indent: ['error', 2],
+      quotes: ['error', "single"],
       'no-console': 'off',
       'import/newline-after-import': ['error', { count: 1 }],
     },
