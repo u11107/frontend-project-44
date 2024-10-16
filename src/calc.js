@@ -22,6 +22,9 @@ const getRandomOperation = () => {
 export const gameCalc = () => {
     const userName = welcomeUser();
 
+    // Выводим описание задания
+    console.log('What is the result of the expression?');
+
     const getQuestionAndAnswer = () => {
         const num1 = Math.floor(Math.random() * 100);
         const num2 = Math.floor(Math.random() * 100);
