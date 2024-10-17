@@ -1,10 +1,14 @@
 import { playGame, welcomeUser } from './index.js';
 
 const getGcd = (a, b) => {
-  while (b !== 0) {
-    [a, b] = [b, a % b];
+  let num1 = a;
+  let num2 = b;
+
+  while (num2 !== 0) {
+    [num1, num2] = [num2, num1 % num2];
   }
-  return a;
+
+  return num1;
 };
 const gameGcd = () => {
   const userName = welcomeUser();
