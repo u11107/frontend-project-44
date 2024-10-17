@@ -10,7 +10,7 @@ export const welcomeUser = () => {
 };
 
 export const playGame = (userName, getQuestionAndAnswer, roundsCount = 3) => {
-  for (let i = 0; i < roundsCount; i++) {
+  for (let i = 0; i < roundsCount; i += 1) {
     const [question, correctAnswer] = getQuestionAndAnswer();
     console.log(`Question: ${question}`);
     const userAnswer = readlineSync.question('Your answer: ').toLowerCase();

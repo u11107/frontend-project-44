@@ -7,7 +7,7 @@ const generateProgression = (start, step, length) => {
   }
   return progression;
 };
-export const gameProgression = () => {
+const gameProgression = () => {
   const userName = welcomeUser();
   console.log('What number is missing in the progression?');
   const getQuestionAndAnswer = () => {
@@ -23,3 +23,4 @@ export const gameProgression = () => {
   };
   playGame(userName, getQuestionAndAnswer);
 };
+export default gameProgression;
