@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import gameGcd from '../src/gcd.js';
+import gameGcd from '../src/game/gcd.js';
 
 gameGcd();

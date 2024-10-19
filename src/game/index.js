@@ -9,7 +9,13 @@ export const welcomeUser = () => {
   return userName;
 };
 
-export const playGame = (userName, getQuestionAndAnswer, roundsCount = 3) => {
+
+export const playGame = (gameDescription, getQuestionAndAnswer, roundsCount = 3) => {
+  console.log('Welcome to the Brain Games!');
+  console.log(gameDescription);
+  const userName = readlineSync.question('What is your name? ');
+  console.log(`Hello, ${userName}!`);
+
   for (let i = 0; i < roundsCount; i += 1) {
     const [question, correctAnswer] = getQuestionAndAnswer();
     console.log(`Question: ${question}`);
