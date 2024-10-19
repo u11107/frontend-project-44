@@ -12,9 +12,6 @@ const gameEven = () => {
     const question = `Question: ${number}`;
     return [question, correctAnswer];
   };
-
-  console.log('Answer "yes" if the number is even, otherwise answer "no".');
-
   playGame(userName, getQuestionAndAnswer);
 };
 
