@@ -5,7 +5,6 @@ const isEven = (num) => num % 2 === 0;
 
 const gameEven = () => {
   const userName = welcomeUser();
-  console.log('Answer "yes" if the number is even, otherwise answer "no".');
 
   const getQuestionAndAnswer = () => {
     const number = getRandomNumber(1, 100);
@@ -13,6 +12,8 @@ const gameEven = () => {
     const question = `Question: ${number}`;
     return [question, correctAnswer];
   };
+
+  console.log('Answer "yes" if the number is even, otherwise answer "no".');
 
   playGame(userName, getQuestionAndAnswer);
 };
