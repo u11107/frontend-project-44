@@ -11,16 +11,16 @@ Brain Games — это набор консольных игр, направле�
 You can watch a demo of the Brain Games in action by clicking the link below:
 
 ### Even-not-even
-[![Watch on Asciinema](https://img.shields.io/badge/Watch%20on-Asciinema-red?style=flat&logo=asciinema)](https://asciinema.org/a/123456)(https://asciinema.org/a/rvUuU9EgNfhSJ1gMv4eWVzJ5L)
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=play)](https://asciinema.org/a/rvUuU9EgNfhSJ1gMv4eWVzJ5L)
 
 ### Calc
-[![Watch on Asciinema](https://img.shields.io/badge/Watch%20on-Asciinema-red?style=flat&logo=asciinema)](https://asciinema.org/a/123456)(https://asciinema.org/a/XZcuWmbZK3X6j5Y4XeWu6vXAn)
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=play)](https://asciinema.org/a/XZcuWmbZK3X6j5Y4XeWu6vXAn)
 
 ### Nod
-[![Watch on Asciinema](https://img.shields.io/badge/Watch%20on-Asciinema-red?style=flat&logo=asciinema)](https://asciinema.org/a/123456)(https://asciinema.org/a/91YhHX6XYPiDYzypzFka8Oe1r)
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=play)](https://asciinema.org/a/91YhHX6XYPiDYzypzFka8Oe1r)
 
 ### Progression
-[![Watch on Asciinema](https://img.shields.io/badge/Watch%20on-Asciinema-red?style=flat&logo=asciinema)](https://asciinema.org/a/123456)(https://asciinema.org/a/tFC5ndnfnBu8NoZxnigeTxVkx)
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=play)](https://asciinema.org/a/tFC5ndnfnBu8NoZxnigeTxVkx)
 
 ### Prime
-[![Watch on Asciinema](https://img.shields.io/badge/Watch%20on-Asciinema-red?style=flat&logo=asciinema)](https://asciinema.org/a/123456)(https://asciinema.org/a/NqU5I5tpBrfNRQFhKsl2TZ7YE)
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=play)](https://asciinema.org/a/NqU5I5tpBrfNRQFhKsl2TZ7YE)
