@@ -1,5 +1,5 @@
 import playGame from './index.js';
-import { getRandomNumber } from '../utils/utils.js';
+import getRandomNumber from '../utils/utils.js';
 
 const calculate = (num1, num2, operation) => {
   switch (operation) {
