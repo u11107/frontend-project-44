@@ -1,5 +1,5 @@
-import { playGame } from './index.js';
-import {getRandomNumber} from "../utils/utils.js";
+import playGame from './index.js';
+import { getRandomNumber } from '../utils/utils.js';
 
 const isPrime = (num) => {
   if (num < 2) return false;
@@ -10,7 +10,7 @@ const isPrime = (num) => {
 };
 
 const generateQuestionAndAnswer = () => {
-  const randomNumber = getRandomNumber(1,100);
+  const randomNumber = getRandomNumber(1, 100);
   const correctAnswer = isPrime(randomNumber) ? 'yes' : 'no';
   const question = String(randomNumber);
   return [question, correctAnswer];

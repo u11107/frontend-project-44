@@ -1,4 +1,4 @@
-import { playGame } from './index.js';
+import playGame from './index.js';
 import { getRandomNumber } from '../utils/utils.js';
 
 const calculate = (num1, num2, operation) => {
