@@ -1,5 +1,6 @@
 import globals from 'globals';
 import pluginJs from '@eslint/js';
+import importPlugin from 'eslint-plugin-import';
 
 export default [
   {
@@ -9,6 +10,9 @@ export default [
   },
   pluginJs.configs.recommended,
   {
+    plugins: {
+      import: importPlugin,
+    },
     rules: {
       indent: ['error', 2],
       quotes: ['error', 'single'],
