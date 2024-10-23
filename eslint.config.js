@@ -3,21 +3,21 @@ import pluginJs from '@eslint/js';
 import importPlugin from 'eslint-plugin-import';
 
 export default [
-    {
-        languageOptions: {
-            globals: globals.browser,
-        },
+  {
+    languageOptions: {
+      globals: globals.browser,
     },
-    pluginJs.configs.recommended,
-    {
-        plugins: {
-            import: importPlugin,
-        },
-        rules: {
-            indent: ['error', 4],
-            quotes: ['error', 'single'],
-            'no-console': 'off',
-            'import/newline-after-import': ['error', { count: 1 }],
-        },
+  },
+  pluginJs.configs.recommended,
+  {
+    plugins: {
+      import: importPlugin,
     },
+    rules: {
+      indent: ['error', 2],
+      quotes: ['error', 'single'],
+      'no-console': 'off',
+      'import/newline-after-import': ['error', { count: 1 }],
+    },
+  },
 ];
