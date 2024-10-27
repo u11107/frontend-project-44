@@ -23,3 +23,6 @@
 
 ### Prime
 [![Watch Demo](https://img.shields.io/badge/Watch-Prime-blue?style=for-the-badge&logo=asciinema&logoColor=white)](https://asciinema.org/a/NqU5I5tpBrfNRQFhKsl2TZ7YE)
+
+### Prime Number Check
+[![Watch Demo](https://asciinema.org/a/NqU5I5tpBrfNRQFhKsl2TZ7YE/iframe.svg)](https://asciinema.org/a/NqU5I5tpBrfNRQFhKsl2TZ7YE)
