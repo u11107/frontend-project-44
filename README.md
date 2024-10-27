@@ -3,21 +3,20 @@
 
 # Brain Games
 
-Brain Games — это набор консольных игр, направленных на развитие логического мышления.
-Игрок должен отвечать на вопросы, генерируемые программой.
+**Brain Games** — это набор консольных игр, направленных на развитие логического мышления. Игрок должен отвечать на вопросы, генерируемые программой.
 
-## Demo
+## Демо
 
-You can watch a demo of the Brain Games in action by clicking the link below:
+Посмотреть демонстрацию Brain Games в действии можно по ссылкам ниже:
 
-### Even-not-even
-[![Watch Demo](https://img.shields.io/badge/Watch-Even_not_even-blue?style=for-the-badge&logo=asciinema&logoColor=white)](https://asciinema.org/a/rvUuU9EgNfhSJ1gMv4eWVzJ5L)
+### Even or Not Even
+[![Watch Demo](https://img.shields.io/badge/Watch-Even_or_Not_Even-blue?style=for-the-badge&logo=asciinema&logoColor=white)](https://asciinema.org/a/rvUuU9EgNfhSJ1gMv4eWVzJ5L)
 
-### Calc
-[![Watch Demo](https://img.shields.io/badge/Watch-Calc-blue?style=for-the-badge&logo=asciinema&logoColor=white)](https://asciinema.org/a/XZcuWmbZK3X6j5Y4XeWu6vXAn)
+### Calculator
+[![Watch Demo](https://img.shields.io/badge/Watch-Calculator-blue?style=for-the-badge&logo=asciinema&logoColor=white)](https://asciinema.org/a/XZcuWmbZK3X6j5Y4XeWu6vXAn)
 
-### Nod
-[![Watch Demo](https://img.shields.io/badge/Watch-Nod-blue?style=for-the-badge&logo=asciinema&logoColor=white)](https://asciinema.org/a/91YhHX6XYPiDYzypzFka8Oe1r)
+### GCD (Greatest Common Divisor)
+[![Watch Demo](https://img.shields.io/badge/Watch-GCD-blue?style=for-the-badge&logo=asciinema&logoColor=white)](https://asciinema.org/a/91YhHX6XYPiDYzypzFka8Oe1r)
 
 ### Progression
 [![Watch Demo](https://img.shields.io/badge/Watch-Progression-blue?style=for-the-badge&logo=asciinema&logoColor=white)](https://asciinema.org/a/tFC5ndnfnBu8NoZxnigeTxVkx)
